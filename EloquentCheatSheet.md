@@ -1,5 +1,7 @@
 ### Overview
-Source: https://medium.com/@Mahmoud_Zalt/eloquent-relationships-cheat-sheet-5155498c209
+**Source:** https://medium.com/@Mahmoud_Zalt/eloquent-relationships-cheat-sheet-5155498c209  
+**Source:** https://gist.github.com/avataru/35c77721ec37b70df1d345b19ba0e2a6  
+**Source:** https://laracasts.com/discuss/channels/eloquent/eloquent-sync-associate?page=1  
 
 |                       |One to one<br>(`1-1`) |One to many<br>(`1-n`)           |Poly one to many<br>(`1x-n`)     | Many to many<br>(`n-n`)              |Poly many to many<br>(`nx-n`)         |
 |-----------------------|:--------------------:|:-------------------------------:|:-------------------------------:|:------------------------------------:|:------------------------------------:|
