@@ -3,6 +3,7 @@
 **Source:** https://gist.github.com/avataru/35c77721ec37b70df1d345b19ba0e2a6  
 **Source:** https://laracasts.com/discuss/channels/eloquent/eloquent-sync-associate?page=1  
 
+
 #### hasOne / hasMany (1-1, 1-n), morphOne / morphMany (polymorphic 1-n)
 
 - `save` (new or existing child)
